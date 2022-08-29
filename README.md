@@ -1,3 +1,3 @@
 # The almighty Obunga Multiplayer game wiki
 
-This repo contains modding tutorials and the issue tracker
+WIP - This repo will contain modding tutorials and the issue tracker
