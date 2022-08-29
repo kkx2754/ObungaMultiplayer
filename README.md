@@ -1,2 +1,2 @@
-# ObungaMultiplayer
-The almighty Obunga Multiplayer game wiki
+# Obunga Multiplayer
+# The almighty Obunga Multiplayer game wiki
